@@ -75,7 +75,6 @@ Resources:
             aws s3 cp s3://udacity-demo-1/udacity.zip .
             unzip -o udacity.zip
         ImageId: ami-050981837962d44ac
-        KeyName: ec2-stockholm
         SecurityGroups:
         - Ref: WebServerSecGroup
         InstanceType: t3.small
