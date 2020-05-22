@@ -1,0 +1,14 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "CloudOpsProject"
+    },
+    {
+        "ParameterKey": "MinSizeServerPool",
+        "ParameterValue": "2"
+    },
+    {
+        "ParameterKey": "MaxSizeServerPool",
+        "ParameterValue": "4"
+    }
+]
